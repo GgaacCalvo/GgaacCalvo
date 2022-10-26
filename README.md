@@ -20,3 +20,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ggaaccalvo&show_icons=true&locale=en&layout=compact" alt="ggaaccalvo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ggaaccalvo&show_icons=true&locale=en" alt="ggaaccalvo" /></p>
+
+
+</br>
+<h3>🚀 Proyectos 🚀 </h3>
+
+<p>Una pagina web orientada a la búsqueda laboral dirigida a personas que tengan un oficio. Podrás contratar gente y contactar con ellos. Teniendo la posibilidad de hacerte trabajador premium y poder acceder a mas beneficios y visualizaciones. Autenticación de terceros. Base de datos. Dashboard de administrador. Soket.io. Borrado Logico. Se trabajo con la metodologia SCRUM. </p>
+                                                                                                                            
+<a href="https://font-pf.vercel.app/" target="_blank"> https://font-pf.vercel.app/</a>
+
+<p align="center">
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/home.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/mapa.png" alt="mapa proyecto"/>
+</p>
+<p align="center">
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/borrado.png" alt="borrado proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/dashboard.png" alt="dashboard proyecto"/>
+</p>
+
