@@ -1,7 +1,6 @@
+<h1 align="center">Hi 👋, I'm Guillermo Calvo</h1>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
-HI 👋, I'M GUILLERMO CALVO
-
-Full Stack Web Developer
 
 
 
