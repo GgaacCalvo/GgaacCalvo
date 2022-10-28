@@ -38,3 +38,16 @@
 <img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/dashboard.png" alt="dashboard proyecto"/>
 </p>
 
+<p>Proyecto individual del bootcamp soyHenry, mi primera experiencia como desarrollador. El desafío consistía en poder consultar datos de una api y podes aplicar filtros y ordenamientos, así como también mostrar un detalle de cada receta como permitirte crear tu propia receta.</p>
+                                                                                                                            
+<a href="https://font-pf.vercel.app/" target="_blank">https://pifoodhenry.vercel.app</a>
+
+<p align="center">
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/lala.png" alt="home proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/lala2.png" alt="mapa proyecto"/>
+</p>
+<p align="center">
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/lala3.png" alt="borrado proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/imgagesProyecto/lala4.png" alt="dashboard proyecto"/>
+</p>
+
