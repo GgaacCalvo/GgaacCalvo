@@ -34,7 +34,7 @@
 <img align="center" width="400px" height="300px" src="./assets/mapa.png" alt="mapa proyecto"/>
 </p>
 <p align="center">
-<img align="center" width="400px" height="300px" src="./assets/borrado.png" alt="pasarella proyecto"/>
+<img align="center" width="400px" height="300px" src="./assets/pasarella.png" alt="pasarella proyecto"/>
 <img align="center" width="400px" height="300px" src="./assets/dashboard.png" alt="dashboard proyecto"/>
 </p>
 
